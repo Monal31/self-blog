@@ -1,0 +1,70 @@
+
+
+
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+
+    text-align: center;
+
+}
+h2{
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    font-family: 'Redressed', cursive;
+    font-size: 50px;
+    text-align: center;
+    
+    text-decoration-style: solid;
+    
+}
+p{
+    letter-spacing: 0.8;
+    font-family: 'Redressed', cursive;
+    font-weight: bold;
+    text-align: justify;
+    font-size: 20px;
+    
+    justify-content:center;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+div{
+    background-color: wheat;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.image {
+    
+    width: 150px;
+    
+    position: relative;
+    top:70px;
+    left: 10%;
+    transform: rotate(-10deg);
+}
+.image1 {
+    width: 200px;
+    
+    position: relative;
+    top:30%;
+    left: 60%;
+    transform: rotate(20deg);
+
+}
+.image2{
+    width: 150px;
+    
+    position: relative;
+    top:35%;
+    left: 10%;
+    transform: rotate(-10deg);
+}
+html{
+    background-color: rgb(255, 248, 184);
+}
